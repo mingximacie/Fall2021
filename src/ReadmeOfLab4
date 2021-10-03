@@ -1,0 +1,7 @@
+## How to run Lab4:
+    1.download the source code to a file.
+    2.open the terminal of your computer.
+    3.cd this file in your terminal.
+    4.input: javac sourceCodeOfLab4(ArrayListImplementStack).java, then click enter.
+    5.input:java sourceCodeOfLab4(ArrayListImplementStack), then click enter.
+    6.now you kan input something to do the test by following the program.
